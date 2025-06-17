@@ -1,0 +1,8 @@
+{
+    "name": "rubyat/us-dl-verification-idanalyzer",
+    "description": "A simple open-source PHP starter project for verifying US driving licenses using the IDAnalyzer API.",
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "idanalyzer/id-analyzer-v2-php-sdk": "^1.0"
+    }
+}
